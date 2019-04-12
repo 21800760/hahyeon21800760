@@ -21,3 +21,13 @@ void f2(){
 	
 	printf("The result is %d \n",a-b);
 }
+
+void f3(){
+
+ int a = 5;
+ int b = 4;
+
+ printf("The result is %d\n", a*b);
+
+}
+
