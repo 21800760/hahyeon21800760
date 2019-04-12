@@ -13,3 +13,13 @@ int main(){
 	
 	return 0;
 }
+
+void f3(){
+
+ int a = 5;
+ int b = 4;
+
+ printf("The result is %d\n", a*b);
+
+}
+
