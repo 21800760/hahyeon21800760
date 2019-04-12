@@ -30,4 +30,8 @@ void f3(){
  printf("The result is %d\n", a*b);
 
 }
-
+void f4(){
+ int a=6;
+ int b=3;
+ printf("The result is %d\n", a/b);
+}
