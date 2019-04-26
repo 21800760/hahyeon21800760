@@ -18,10 +18,9 @@
 설치에 실패하는 경우!
 시스템환경설정 -> 보안 및 개인정보 보호
 <img width="600" alt="스크린샷 2019-04-26 오후 11 51 15" src="https://user-images.githubusercontent.com/48082631/56816317-4556df80-687e-11e9-95dd-4e7ccd887f3b.png">
-Allow 클릭!
+
 <img width="600" alt="스크린샷 2019-04-26 오후 11 53 39" src="https://user-images.githubusercontent.com/48082631/56816509-a383c280-687e-11e9-8a03-18548890297c.png">
 
-설치 완료!
 <img width="600" alt="스크린샷 2019-04-26 오후 11 55 52" src="https://user-images.githubusercontent.com/48082631/56816630-db8b0580-687e-11e9-9a91-148b570168d8.png">
 
 
