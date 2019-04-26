@@ -13,6 +13,7 @@
 
 # Oracle VM VirtualBox 에 ubuntu 18.04 설치
 
-* [Oracle VM VirtualBox 설치 방법](https://github.com/21800760/21800760/blob/master/VM%20소프트웨어%20설치%20(맥북).md)
+* [Oracle VM VirtualBox 설치 안되어 있을 시 설치 방법(맥북)](https://github.com/21800760/21800760/blob/master/VM%20소프트웨어%20설치%20(맥북).md)
 
 <img width="700" alt="스크린샷 2019-04-27 오전 12 32 16" src="https://user-images.githubusercontent.com/48082631/56819292-615d7f80-6884-11e9-8e2d-be4974d68cdc.png">
+
