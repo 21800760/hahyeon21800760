@@ -25,7 +25,7 @@
 
 <img width="700" alt="스크린샷 2019-04-27 오전 12 52 09" src="https://user-images.githubusercontent.com/48082631/56820981-3a08b180-6888-11e9-8f1a-ce3d0d7b9786.png">
 
-만들어진 Ubuntu 옆을 보면 여러 정보들이 나와 있는 데 그 중에서 저장소에 [광학 드라이브] 비어있음을 클릭!
+만들어진 Ubuntu 옆을 보면 여러 정보들이 나와 있는 데 그 중에서 저장소에 '[광학 드라이브] 비어있음'을 클릭 -> 이미지 선택 -> 설치한 ubuntu 클릭!
 
 <img width="722" alt="스크린샷 2019-04-27 오전 1 04 43" src="https://user-images.githubusercontent.com/48082631/56821380-142fdc80-6889-11e9-8fd5-3a783325343a.png">
 
