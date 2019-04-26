@@ -17,3 +17,17 @@
 
 <img width="700" alt="스크린샷 2019-04-27 오전 12 32 16" src="https://user-images.githubusercontent.com/48082631/56819292-615d7f80-6884-11e9-8e2d-be4974d68cdc.png">
 
+<img width="700" alt="스크린샷 2019-04-27 오전 12 50 39" src="https://user-images.githubusercontent.com/48082631/56820948-2c532c00-6888-11e9-9fd2-1214b5b258ea.png">
+
+<img width="700" alt="스크린샷 2019-04-27 오전 12 51 16" src="https://user-images.githubusercontent.com/48082631/56820954-2fe6b300-6888-11e9-9175-8a7af7485405.png">
+
+<img width="700" alt="스크린샷 2019-04-27 오전 12 51 34" src="https://user-images.githubusercontent.com/48082631/56820961-32e1a380-6888-11e9-8a68-4082e1e78223.png">
+
+<img width="700" alt="스크린샷 2019-04-27 오전 12 52 09" src="https://user-images.githubusercontent.com/48082631/56820981-3a08b180-6888-11e9-8f1a-ce3d0d7b9786.png">
+
+<img width="555" alt="스크린샷 2019-04-27 오전 12 54 21" src="https://user-images.githubusercontent.com/48082631/56821164-98ce2b00-6888-11e9-943f-c08e986b5ed6.png">
+
+<img width="525" alt="스크린샷 2019-04-27 오전 12 54 44" src="https://user-images.githubusercontent.com/48082631/56821183-a388c000-6888-11e9-82ae-80975c2eafe5.png">
+
+
+
