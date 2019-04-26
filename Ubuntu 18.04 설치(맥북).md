@@ -36,5 +36,9 @@
 
 <img width="525" alt="스크린샷 2019-04-27 오전 12 54 44" src="https://user-images.githubusercontent.com/48082631/56821183-a388c000-6888-11e9-82ae-80975c2eafe5.png">
 
+새로만든 ubuntu를 더블 클릭하면 다음과 같은 창이 뜬다
+언어를 한국어로 바꿔주고 Ubuntu 설치 클릭!
+
+<img width="700" alt="스크린샷 2019-04-27 오전 12 56 23" src="https://user-images.githubusercontent.com/48082631/56821822-51e13500-688a-11e9-995e-cefa7d9c4552.png">
 
 
