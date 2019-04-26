@@ -50,6 +50,6 @@
 설치 완료 후 새로만든 ubuntu 더블 클릭 후 -> 로그인 -> 완료!
 ~~~
 
-<img width="700" alt="스크린샷 2019-04-27 오전 1 22 00" src="https://user-images.githubusercontent.com/48082631/56822179-42162080-688b-11e9-8cb3-3e231fffe8c3.png">
-
 <img width="700" alt="스크린샷 2019-04-27 오전 1 21 00" src="https://user-images.githubusercontent.com/48082631/56822182-42162080-688b-11e9-82c4-d18a0b4e2e5d.png">
+
+<img width="700" alt="스크린샷 2019-04-27 오전 1 22 00" src="https://user-images.githubusercontent.com/48082631/56822179-42162080-688b-11e9-8cb3-3e231fffe8c3.png">
