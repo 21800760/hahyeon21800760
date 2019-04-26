@@ -25,7 +25,10 @@
 
 <img width="700" alt="스크린샷 2019-04-27 오전 12 52 09" src="https://user-images.githubusercontent.com/48082631/56820981-3a08b180-6888-11e9-8f1a-ce3d0d7b9786.png">
 
-만들어진 Ubuntu 옆을 보면 여러 정보들이 나와 있는 데 그 중에서 저장소에 '[광학 드라이브] 비어있음'을 클릭 -> 이미지 선택 -> 설치한 ubuntu 클릭!
+~~~
+만들어진 Ubuntu 옆을 보면 여러 정보들이 나와 있는 데 그 중에서 
+저장소에 '[광학 드라이브] 비어있음'을 클릭 -> 이미지 선택 -> 설치한 ubuntu 클릭!
+~~~
 
 <img width="722" alt="스크린샷 2019-04-27 오전 1 04 43" src="https://user-images.githubusercontent.com/48082631/56821380-142fdc80-6889-11e9-8fd5-3a783325343a.png">
 
@@ -36,9 +39,17 @@
 
 <img width="525" alt="스크린샷 2019-04-27 오전 12 54 44" src="https://user-images.githubusercontent.com/48082631/56821183-a388c000-6888-11e9-82ae-80975c2eafe5.png">
 
+~~~
 새로만든 ubuntu를 더블 클릭하면 다음과 같은 창이 뜬다
 언어를 한국어로 바꿔주고 Ubuntu 설치 클릭!
+~~~
 
 <img width="700" alt="스크린샷 2019-04-27 오전 12 56 23" src="https://user-images.githubusercontent.com/48082631/56821822-51e13500-688a-11e9-995e-cefa7d9c4552.png">
 
+~~~
+설치 완료 후 새로만든 ubuntu 더블 클릭 후 -> 로그인 -> 완료!
+~~~
 
+<img width="700" alt="스크린샷 2019-04-27 오전 1 22 00" src="https://user-images.githubusercontent.com/48082631/56822179-42162080-688b-11e9-8cb3-3e231fffe8c3.png">
+
+<img width="700" alt="스크린샷 2019-04-27 오전 1 21 00" src="https://user-images.githubusercontent.com/48082631/56822182-42162080-688b-11e9-82c4-d18a0b4e2e5d.png">
