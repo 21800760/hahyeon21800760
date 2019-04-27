@@ -24,4 +24,37 @@ su와 sudo su의 차이
 
 출처: https://infosecguide.tistory.com/88 [정보보안 지침서]
 
-## 1. apache 설치하기
+## 1. Apache2 설치하기
+
+root 권한으로 변경
+~~~
+sudo su
+~~~
+
+Apache2 설치
+~~~
+#apt-get install apache2
+~~~
+
+버전 체크
+~~~
+apache2 -v
+~~~
+
+## 2. PHP 7.0 설치
+
+~~~
+#apt-get install php
+~~~
+
+아파치 재시작
+~~~
+#service apache2 restart
+~~~
+
+버전체크
+~~~
+#php -v
+~~~
+
+
