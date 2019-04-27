@@ -57,4 +57,20 @@ apache2 -v
 #php -v
 ~~~
 
+## 3. mysql 설치
+
+mysqlr과 mariadb는 완전 API 호환된다.
+
+~~~
+#apt-get install mariadb-server
+
+또는
+
+#apt install mysql-client-core-5.7
+~~~
+
+~~~
+#apt-get install php-mysql
+~~~
+
 
