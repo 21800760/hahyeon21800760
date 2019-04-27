@@ -1,8 +1,5 @@
 # APM 설치
 
-1. ubuntu를 실행하고 로그인 한다.
-2. 터미널을 실행한다.
-
 #### 추가정보
 ~~~
 su(substitute user)
@@ -27,4 +24,4 @@ su와 sudo su의 차이
 
 출처: https://infosecguide.tistory.com/88 [정보보안 지침서]
 
-### apache 설치하기
+## 1. apache 설치하기
