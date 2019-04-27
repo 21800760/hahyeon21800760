@@ -69,8 +69,12 @@ mysqlr과 mariadb는 완전 API 호환된다.
 #apt install mysql-client-core-5.7
 ~~~
 
+DB 연동모듈 설치. 완전 호환되기 때문에 mysql 이라고 해도 mariadb 사용가능
+
 ~~~
 #apt-get install php-mysql
 ~~~
+
+참고 사이트: <https://blog.lael.be/post/73>
 
 
