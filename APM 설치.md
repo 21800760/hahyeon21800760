@@ -77,5 +77,4 @@ DB 연동모듈 설치. 완전 호환되기 때문에 mysql 이라고 해도 mar
 
 참고 사이트: <https://blog.lael.be/post/73>
 
-## 4. 웹 서비스 가동 체크 및 localhost index 파일 수정
 
