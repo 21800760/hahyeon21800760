@@ -1,6 +1,6 @@
 # 웹 서비스 가동 체크 및 localhost index 파일 수정
 
-1. 웹 서비스 가동 체크
+### 1. 웹 서비스 가동 체크
 
 Firefox 웹 브라우저 주소창에 localhost 입력!
 
@@ -8,7 +8,7 @@ Firefox 웹 브라우저 주소창에 localhost 입력!
 
 웹 서비스 가동 체크 완료!
 
-2. localhost index 파일 수정
+### 2. localhost index 파일 수정
 
 ~~~
 /var/www/html/
