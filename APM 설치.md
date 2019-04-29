@@ -57,6 +57,17 @@ apache2 -v
 #php -v
 ~~~
 
+* PHP Test
+  php가 정상적으로 설치되었는지 확인하기 위해 /var/www/html 경로에 info.php 파일을 생성해 준다.
+  
+<img width="600" alt="스크린샷 2019-04-29 오전 1 31 54" src="https://user-images.githubusercontent.com/48082631/56900468-e0df8e80-6ad0-11e9-8b46-aef69f64e0b2.png">
+
+위와 같은 명령어를 입력해 준 후 웹 브라우저에 localhost/info.php 입력
+
+<img width="600" alt="스크린샷 2019-04-29 오전 1 30 55" src="https://user-images.githubusercontent.com/48082631/56900600-2b610b00-6ad1-11e9-804b-a273aea077df.png">
+
+다음과 같은 창이 뜬다면 성공!
+
 ## 3. mysql 설치
 
 mysqlr과 mariadb는 완전 API 호환된다.
@@ -76,5 +87,34 @@ DB 연동모듈 설치. 완전 호환되기 때문에 mysql 이라고 해도 mar
 ~~~
 
 참고 사이트: <https://blog.lael.be/post/73>
+
+## 4.PhpMyAdmin 설치
+
+phpmyadmin이란 웹상에서 mysql을 관리하기 위해 php로 작성된 툴이다. 데이터베이스를 생성 및 수정, 관리 등 많은 일들을 할 수 있다.
+
+~~~
+$sudo apt-get install phpmyadmin
+~~~
+
+계속 하시겠습니까? [Y/n] : y
+phpmyadmin 설정 : apache2 선택 후 <예> 선택 -> 암호 설정
+
+localhost/phpmyadmin으로 접속하여 설치 여부를 확인
+
+<img width="600" alt="스크린샷 2019-04-29 오전 1 40 51" src="https://user-images.githubusercontent.com/48082631/56900986-0de07100-6ad2-11e9-8bd9-30ad7d4efc5c.png">
+
+phpmyadmin이 정상적으로 설치된 상태
+
+* 안들어가지는 경우
+~~~
+$sudo vi /etc/apache2/apache2.conf
+
+그 다음으로, apache2.conf 파일의 맨 아랫 부분에 다음과 같은 내용 추가
+
+# Enable PhpMyAdmin
+Include /etc/phpmyadmin/apache.conf
+
+마지막으로 $service apache2 restart 명령을 입력해 준 뒤 다시 웹 브라우저에서 접속 해보면 위 그림과 같은 창을 볼 수 있다.
+~~~
 
 
