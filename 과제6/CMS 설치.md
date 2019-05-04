@@ -19,10 +19,11 @@ WordPress는 일반적으로 Apache 서버 상에서 동작하기 때문에 웹 
 WordPress 웹 서비스를 운영할 별도의 계정생성
 ~~~
 
-[사진1]
+사진 삽입
 
+[가상호스트설정](https://github.com/21800760/21800760/blob/master/가상호스트%20설정.md)에서 세팅한 것고 동일한 방법으로 virtual hosting을 진행한다.
 ~~~
-다음으로 su wp 명령으로 wp계정으로 로그인한 뒤 html폴더와 index.html파일을 만들어준다. 
+다음으로 su mywp 명령으로 mywp계정으로 로그인한 뒤 html폴더와 index.html파일을 만들어준다. 
 index.html에는 도메인에 띄울 내용을 간단하게 작성한다.
 ~~~
 
@@ -30,13 +31,13 @@ index.html에는 도메인에 띄울 내용을 간단하게 작성한다.
 
 ~~~
 root 권한으로 돌아간 후 cd /etc/apache2/sites-available 디렉토리로 이동 후 000-default.conf 파일을
-wp.com.conf 파일로 복하해준다.
+mywp.com.conf 파일로 복하해준다.
 ~~~
 
 [사진]
 
 ~~~
-wp.conf 파일을 열어 내용을 다음과 같이 수정해준다
+mywp.conf 파일을 열어 내용을 다음과 같이 수정해준다
 ~~~
 
 [사진]
