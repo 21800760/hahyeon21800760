@@ -21,46 +21,7 @@ WordPress 웹 서비스를 운영할 별도의 계정생성
 
 사진 삽입
 
-[가상호스트설정](https://github.com/21800760/21800760/blob/master/가상호스트%20설정.md)에서 세팅한 것고 동일한 방법으로 virtual hosting을 진행한다.
-~~~
-다음으로 su mywp 명령으로 mywp계정으로 로그인한 뒤 html폴더와 index.html파일을 만들어준다. 
-index.html에는 도메인에 띄울 내용을 간단하게 작성한다.
-~~~
+[가상호스트설정(클릭하기해서 보기)](https://github.com/21800760/21800760/blob/master/가상호스트%20설정.md)에서 세팅한 것고 동일한 방법으로 virtual hosting을 진행한다.
 
-[사진]
-
-~~~
-root 권한으로 돌아간 후 cd /etc/apache2/sites-available 디렉토리로 이동 후 000-default.conf 파일을
-mywp.com.conf 파일로 복하해준다.
-~~~
-
-[사진]
-
-~~~
-mywp.conf 파일을 열어 내용을 다음과 같이 수정해준다
-~~~
-
-[사진]
-
-~~~
-hosts 파일을 다음과 같이 수정해주기 위해 vim /etc/hosts 명령어 입력.
-~~~
-
-[사진]
-
-~~~
-홈 디렉 토리 권한을 세팅하기 위해 vim /etc/apache2/apache2.conf 파일을 다음과 같이 수정해 준다.
-~~~
-
-[사진]
-
-~~~
-site 활성화 : a2ensite wp.com
-~~~
-[사진]
-
-~~~
-아파치 재시작 : service apache2 restart
-~~~
 
 
