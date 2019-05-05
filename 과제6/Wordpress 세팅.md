@@ -110,9 +110,7 @@ hha.com 접속 후 웹 서비스 세팅하기
 
 <img width="600" alt="스크린샷 2019-05-06 오전 12 59 28" src="https://user-images.githubusercontent.com/48082631/57197514-1984d980-6fa3-11e9-9497-6da3add838bb.png">
 
-
+~~~
 참고 사이트 : https://www.popit.kr/워드프레스-설치/
-
-           http://www.nam.or.kr/archives/564
-           
-         
+           http://www.nam.or.kr/archives/564        
+~~~         
