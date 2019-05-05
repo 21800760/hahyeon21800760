@@ -38,6 +38,10 @@ Timezone을 GTC+9(한국 표준시각)으로 설정합니다.
 
 # 다른 계정으로 한국어 버전 Wordpress 다운로드 후 세팅하기
 
+[가상 호스트 설정]https://github.com/21800760/21800760/blob/master/가상호스트%20설정.md
+에서 세팅한 것과 동일한 방법으로 virtual hosting을 진행한다.
+
+또 다른 계정으로 
 
 
 참고 사이트 : https://www.popit.kr/워드프레스-설치/
