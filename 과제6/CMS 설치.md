@@ -84,7 +84,8 @@ wp-config.php 내용 수정
 생성했던 데이터베이스 이름과 계정 정보를 적어준다
 ~~~
 
-<img width="300" alt="스크린샷 2019-05-05 오후 11 08 02" src="https://user-images.githubusercontent.com/48082631/57195684-5eebdb80-6f90-11e9-9acb-237b273a2c28.png">
+<img width="300" alt="스크린샷 2019-05-05 오후 11 08 02" src="https://user-images.githubusercontent.com/48082631/57197303-a11d1900-6fa0-11e9-9b81-f86f7b3f8c21.png">
+
 
 
 ### 웹 브라우저에서 WordPress 웹 사이트 접속하여 설치하기
