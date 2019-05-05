@@ -45,23 +45,32 @@ Timezone을 GTC+9(한국 표준시각)으로 설정합니다.
 [가상 호스트 설정](https://github.com/21800760/21800760/blob/master/가상호스트%20설정.md)
 에서 세팅한 것과 동일한 방법으로 virtual hosting을 진행한다.
 
+~~~
+새로운 계정 hha를 많들었다.
 계정이 생성된 모습
+~~~
 
-[사진]
+<img width="300" alt="스크린샷 2019-05-06 오전 12 32 54" src="https://user-images.githubusercontent.com/48082631/57197360-50f28680-6fa1-11e9-977f-6e58c4248635.png">
 
 ~~~
 MySQL Database 추가 및 설정 - root 권한에서 수행
 ~~~
-전에 만들었던 것을 참고하여 생성하기!![주소 넣기]
 
-[사진]-> hhadb 만듦
+전에 만들었던 것을 참고하여 생성하기!! 상세내용 생략. 자세한 내용은 [이곳을 클릭](https://github.com/21800760/21800760/blob/master/가상호스트%20설정.md)
 
-[사진]-> 생성한 데이터 베이스의 사용자계정 만듥
+<img width="300" alt="스크린샷 2019-05-06 오전 12 36 19" src="https://user-images.githubusercontent.com/48082631/57197384-87c89c80-6fa1-11e9-8a20-817279778fdb.png">
+
+~~~
+생성한 데이터 베이스의 사용자계정 만들고,(create user '유저이름'@'localhost' identified by '비밀번호';)
+생성한 사용자 계정에게 데이터베이스 사용 권한을 부여해준다.
+변경사항들을 반영해주고 mysql 종료
+~~~
+
+<img width="300" alt="스크린샷 2019-05-06 오전 12 38 43" src="https://user-images.githubusercontent.com/48082631/57197411-f4dc3200-6fa1-11e9-9796-a0741d7dfb1b.png">
 
 ### Wordpress 한국어 버전 다운로드
 
-두번째 계정을 생성해서 wordpress 설치하는 과정에서는 몇 가지 단계 설명을 생략 하였다. 
-더 자세한 내용은 다음을 클릭! [wordpress 설치 더 자세한 내용 보기]주소
+더 자세한 내용은 다음을 클릭! [wordpress 설치 더 자세한 내용 보기](https://github.com/21800760/21800760/blob/master/과제6/CMS%20설치.md)
 
 ~~~
 /home/hha/html 디렉토리 안에 wordpress 설치(한국어 버전)
@@ -69,21 +78,37 @@ MySQL Database 추가 및 설정 - root 권한에서 수행
 명령어 : wget https://ko.wordpress.org/latest-ko_KR.tar.gz
 ~~~
 
-[사진]-> 설치 확인
+<img width="300" alt="스크린샷 2019-05-06 오전 12 47 29" src="https://user-images.githubusercontent.com/48082631/57197458-7af87880-6fa2-11e9-871f-ca90004ff88b.png">
 
 ~~~
 압축 풀기
 명령어 : tar -xvzf latest-ko_KR.tar.gz
 ~~~
 
-[사진]->압축 푼 파일 확인
+<img width="300" alt="스크린샷 2019-05-06 오전 12 49 05" src="https://user-images.githubusercontent.com/48082631/57197461-7f249600-6fa2-11e9-81d7-48d6be71ae37.png">
 
 ~~~
 wordpress 디렉토리로 들어간 후 wp-config-sample 파이을 wp-config.php파일로 복사
 wp-config.php 파일의 내용을 다음과 같이 수정
 ~~~
 
+<img width="300" alt="스크린샷 2019-05-06 오전 12 52 21" src="https://user-images.githubusercontent.com/48082631/57197474-a4190900-6fa2-11e9-9097-28b3f837efa0.png">
 
+~~~
+/etc/apache2/sites-available 디렉토리에서 hha.com.conf 파일내의 DocumentRoot 경로를 다음과 같이 설정
+~~~
+
+<img width="300" alt="스크린샷 2019-05-06 오전 12 55 49" src="https://user-images.githubusercontent.com/48082631/57197498-ee9a8580-6fa2-11e9-96c6-7a670c4f5664.png">
+
+~~~
+hha.com 접속 후 웹 서비스 세팅하기
+~~~
+
+<img width="600" alt="스크린샷 2019-05-06 오전 12 58 06" src="https://user-images.githubusercontent.com/48082631/57197510-12f66200-6fa3-11e9-99b6-da343550b227.png">
+
+<img width="600" alt="스크린샷 2019-05-06 오전 12 59 52" src="https://user-images.githubusercontent.com/48082631/57197513-1984d980-6fa3-11e9-806f-538e9c8a51e3.png">
+
+<img width="600" alt="스크린샷 2019-05-06 오전 12 59 28" src="https://user-images.githubusercontent.com/48082631/57197514-1984d980-6fa3-11e9-9497-6da3add838bb.png">
 
 
 참고 사이트 : https://www.popit.kr/워드프레스-설치/
