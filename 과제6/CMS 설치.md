@@ -79,13 +79,13 @@ $ cp wp-config-sample.php wp-config.php
 앞으로, 이 wp-config.php 파일이 주요 설정내용이 저장되는 곳임을 명심!
 ~~~
 
-사진
-
 ~~~
 wp-config.php 내용 수정
 생성했던 데이터베이스 이름과 계정 정보를 적어준다
 ~~~
-사진
+
+<img width="300" alt="스크린샷 2019-05-05 오후 11 08 02" src="https://user-images.githubusercontent.com/48082631/57195684-5eebdb80-6f90-11e9-9acb-237b273a2c28.png">
+
 
 ### 웹 브라우저에서 WordPress 웹 사이트 접속하여 설치하기
 
@@ -93,6 +93,7 @@ wp-config.php 내용 수정
 웹 브라우저에 자신이 세팅하 도메인 주소(mywp.com)를 입력해주면, 다음과 같은 창이 띄워지고, 홈페이지 절차에 따라 웹서비스를 세팅하면 된다.
 ~~~
 
+<img width="600" alt="스크린샷 2019-05-05 오후 11 40 53" src="https://user-images.githubusercontent.com/48082631/57195711-b8540a80-6f90-11e9-9f18-79d4aaf79441.png">
 
 
 
