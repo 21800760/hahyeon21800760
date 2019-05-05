@@ -1,4 +1,4 @@
-# Wordpress 세팅
+# #Wordpress 세팅
 
 ~~~
 Username에는 이 웹사이트에 로그인할 때에 사용할 아이디 입력
@@ -40,7 +40,7 @@ Timezone을 GTC+9(한국 표준시각)으로 설정합니다.
 
 <img width="600" alt="스크린샷 2019-05-06 오전 12 12 50" src="https://user-images.githubusercontent.com/48082631/57197270-3966ce00-6fa0-11e9-80d5-dace5400c961.png">
 
-# 다른 계정으로 한국어 버전 Wordpress 다운로드 후 세팅하기
+# #다른 계정으로 한국어 버전 Wordpress 다운로드 후 세팅하기
 
 [가상 호스트 설정](https://github.com/21800760/21800760/blob/master/가상호스트%20설정.md)
 에서 세팅한 것과 동일한 방법으로 virtual hosting을 진행한다.
