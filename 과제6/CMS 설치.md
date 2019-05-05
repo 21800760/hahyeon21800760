@@ -29,12 +29,14 @@ WordPress 웹 서비스를 운영할 별도의 계정생성
 mysql -uroot -p 명령으로 mysqldp에 접속한다.
 ~~~
 <img width="600" alt="스크린샷 2019-05-05 오전 12 12 54" src="https://user-images.githubusercontent.com/48082631/57195059-0bc25a80-6f89-11e9-9b50-a03ac018a5e9.png">
+
 ~~~
 데이터 베이스를 생성한다. 
 > create database choidb;
 ~~~
 
 데이터 베이스 확인
+
 <img width="300" alt="스크린샷 2019-05-05 오전 12 36 08" src="https://user-images.githubusercontent.com/48082631/57195067-25fc3880-6f89-11e9-972b-b7bf4209e13d.png">
 
 ~~~
