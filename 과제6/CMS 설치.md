@@ -96,7 +96,7 @@ wp-config.php 내용 수정
 
 <img width="600" alt="스크린샷 2019-05-05 오후 11 40 53" src="https://user-images.githubusercontent.com/48082631/57195711-b8540a80-6f90-11e9-9f18-79d4aaf79441.png">
 
-
+참고 자료 : [제대로 활용하는 오픈소스 - 김광 지음]
 
 
 
