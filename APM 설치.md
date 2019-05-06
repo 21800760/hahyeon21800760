@@ -93,8 +93,10 @@ mysql에 접속해보기(root로 변경 후 접속)
 
 <img width="600" alt="스크린샷 2019-05-06 오후 10 32 59" src="https://user-images.githubusercontent.com/48082631/57228557-03345780-704f-11e9-9138-8a5b7bf1967f.png">
 
-
+~~~
 참고 사이트: <https://blog.lael.be/post/73>
+          <https://all-record.tistory.com/183>
+~~~
 
 ## 4.PhpMyAdmin 설치
 
