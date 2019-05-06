@@ -26,6 +26,8 @@ hha.com/wp-admin 으로 접속 후 홈페이지 세팅을 한다.
 
 <img width="600" alt="스크린샷 2019-05-06 오후 8 47 01" src="https://user-images.githubusercontent.com/48082631/57223203-44713b00-7040-11e9-83dc-e8ddfa1ecbe1.png">
 
+참고사이트 : https://ezwebmis.com/워드프레스-설치후-가장-먼저-해야할-기본-셑업들/
+
 
 
 
