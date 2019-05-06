@@ -22,6 +22,9 @@ hha.com/wp-admin 으로 접속 후 홈페이지 세팅을 한다.
 2. 테마 설정
 <img width="600" alt="스크린샷 2019-05-06 오후 8 13 21" src="https://user-images.githubusercontent.com/48082631/57222694-800b0580-703e-11e9-96e3-9e62e3dd3cbb.png">
 
+지금까지 적용한 모습 보기
+
+<img width="600" alt="스크린샷 2019-05-06 오후 8 47 01" src="https://user-images.githubusercontent.com/48082631/57223203-44713b00-7040-11e9-83dc-e8ddfa1ecbe1.png">
 
 
 
